@@ -7329,9 +7329,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abrah\\source\\repos\\ElaphantsWithMachineGuns\\ElaphantsWithMachineGuns\\ElaphantsWithMachineGuns.csproj",
-      "projectName": "ElaphantsWithMachineGuns",
-      "projectPath": "C:\\Users\\abrah\\source\\repos\\ElaphantsWithMachineGuns\\ElaphantsWithMachineGuns\\ElaphantsWithMachineGuns.csproj",
+      "projectUniqueName": "C:\\Users\\abrah\\source\\repos\\ElaphantsWithMachineGuns\\ElaphantsWithMachineGuns\\ElephantsWithMachineGuns.csproj",
+      "projectName": "ElephantsWithMachineGuns",
+      "projectPath": "C:\\Users\\abrah\\source\\repos\\ElaphantsWithMachineGuns\\ElaphantsWithMachineGuns\\ElephantsWithMachineGuns.csproj",
       "packagesPath": "C:\\Users\\abrah\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\abrah\\source\\repos\\ElaphantsWithMachineGuns\\ElaphantsWithMachineGuns\\obj\\",
       "projectStyle": "PackageReference",

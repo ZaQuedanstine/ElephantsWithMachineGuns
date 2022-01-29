@@ -1,0 +1,9 @@
+Content/Bangers/Bangers-Regular.ttf - Bangers font created by Vernon Adams, released on Google Fonts (https://fonts.google.com/specimen/Bangers) under the Open Font License
+
+Content/Tipper.png - created by Trent Gamblin as part of his 48 animated old school RPG characters(16x16) on OpenGameArt.Org (https://opengameart.org/content/48-animated-old-school-rpg-characters-16x16), released under BSD style license
+
+Content/grass_32x32.png - created by Alucard as part of his Platform Tiles Pack on OpenGameArt.Org (https://opengameart.org/content/platform-tiles-0), released under CC-BY 3.0
+
+Content/cloud.png - created by Mineat as part of his coulds and gust Pack on OpenGameArt.Org (https://opengameart.org/content/clouds-and-gust), released under CC-BY 3.0
+
+Content/pack.png - created by congusbongus as part of his tiny gun icons on OpenGameArt.Org (https://opengameart.org/content/tiny-gun-icons-16x16), released under the public domain

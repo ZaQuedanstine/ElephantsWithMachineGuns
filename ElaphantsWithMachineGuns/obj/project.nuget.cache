@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EGLI+aehvBvsAUydbHhBQuMaHQpMCeeyh3114gvVfUSn/EiZG21bUg7ywb9FlfIUU1sUIi0/H9SpUNRlPTAiqw==",
+  "dgSpecHash": "W4No0rR60MGfiu0Gmrj0eacJBBGLmyRWKtmNUDWTbYqzjxjmTGeNI/oZh8bsVkguoyFAIqPK56KTUqR84Kpf4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\abrah\\source\\repos\\ElaphantsWithMachineGuns\\ElaphantsWithMachineGuns\\ElaphantsWithMachineGuns.csproj",
+  "projectFilePath": "C:\\Users\\abrah\\source\\repos\\ElaphantsWithMachineGuns\\ElaphantsWithMachineGuns\\ElephantsWithMachineGuns.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abrah\\.nuget\\packages\\libuv\\1.9.1\\libuv.1.9.1.nupkg.sha512",
     "C:\\Users\\abrah\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\1.1.0\\microsoft.codeanalysis.analyzers.1.1.0.nupkg.sha512",
