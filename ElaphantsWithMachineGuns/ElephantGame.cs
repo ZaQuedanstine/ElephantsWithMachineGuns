@@ -21,6 +21,7 @@ namespace ElaphantsWithMachineGuns
             _graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
             IsMouseVisible = true;
+            Window.Title = "Elephants With Machine Guns";
         }
 
         protected override void Initialize()
